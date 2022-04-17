@@ -1,0 +1,14 @@
+{
+  "name": "@f16ea6bbcc9f4cf7/scatterplot-including-hover-effect-from-the-d3-js-graph-gal/2",
+  "main": "c198120b82bda565@177.js",
+  "version": "177.0.0",
+  "homepage": "https://observablehq.com/@f16ea6bbcc9f4cf7/scatterplot-including-hover-effect-from-the-d3-js-graph-gal/2",
+  "author": {
+    "name": "Zoe Liu",
+    "url": "https://observablehq.com/@f16ea6bbcc9f4cf7"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
